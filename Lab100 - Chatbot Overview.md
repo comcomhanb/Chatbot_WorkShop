@@ -73,7 +73,6 @@ P](media/15153914320994/Screen%20Shot%202018-01-08%20at%205.31.56%20PM.png)
 ![Screen Shot 2018-01-08 at 5.34.14
 P](media/15153914320994/Screen%20Shot%202018-01-08%20at%205.34.14%20PM.png)
 
-### 2. 이전에 보신것 처럼, Track Spending 기능도 테스트 해보세요
 
 
 
