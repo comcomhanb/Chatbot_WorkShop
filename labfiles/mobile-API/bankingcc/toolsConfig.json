@@ -1,0 +1,37 @@
+
+{
+    "apiName":"BankingCC",
+    "apiVersion":"1.0",
+    "apiId":"f332819f-ea18-4d2d-9bb9-8a40d2ae72ac-000a111e",
+    "baseUrl":"https://985527FF7CD74F2C8A61E81EDFEB78FA.mobile.ocp.oraclecloud.com:443",
+    "tokenEndpoint":"https://idcs-ea876380d3114bdb84912e6de23b9aa5.identity.oraclecloud.com/oauth2/v1/token",
+    "backend":{
+        "backendId":"894ea3cd-30dc-446c-98fb-bf0fd134a0fc",
+        "backendName":"Banking_00",
+        "backendVersion":"1.0",
+        "authorization":{
+            "anonymousKey":"OTg1NTI3RkY3Q0Q3NEYyQzhBNjFFODFFREZFQjc4RkFfTW9iaWxlQW5vbnltb3VzX0FQUElEOmZjODE1NTY1LTIzN2ItNGMyZS05NzdmLTNhY2FmZTc1ZmJmNQ==",
+            "clientId":"2ee7e3e950a84b479a496b7a0fcd05bd",
+            "clientSecret":"be441ab0-e4dd-4f5c-84c8-a230a88b1ae3"
+        }
+    },
+    "tools":{
+        "deployment":{
+            "tempDirectory":"c:\\tmp\\mcs-deploy"
+        },
+        "authorization":{
+            "clientId":"2ee7e3e950a84b479a496b7a0fcd05bd",
+            "clientSecret":"be441ab0-e4dd-4f5c-84c8-a230a88b1ae3"
+        }
+    },
+    "container":{
+        "oracleMobileApiName":"OracleMobileAPI",
+        "port":4000
+    },
+    "tests":{
+        "getComponents":{
+            "method":"GET",
+            "resource":"/components"
+        }
+    }
+}
