@@ -26,7 +26,6 @@ Lab500 - Instant App을 이용해서 서비스 확장하기
 
 
 ### A. 인스턴트 앱을 처음부터 만들기  
-=======
 
 a. New Instant App -> Blank를 눌러주세요.
 
@@ -102,14 +101,12 @@ c. App Settings의 ID가 AgreementInstantApp 인지 확인 해주세요.
 
 ![Screen Shot 2018-08-07 at 4.10.17 P](media/15336223095314/Screen%20Shot%202018-08-07%20at%204.10.17%20PM.png)
 
-
-
 **Step 3: Instant App으로 들어가기**
 =======
 
-
 ### 1. Flow 를 넣어서 테스트를 해 볼 수 있습니다. 
 
+![Screen Shot 2018-08-07 at 5.35.35 P](media/15336223095314/Screen%20Shot%202018-08-07%20at%205.35.35%20PM.png)
 
 
 
