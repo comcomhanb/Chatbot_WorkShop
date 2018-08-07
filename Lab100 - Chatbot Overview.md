@@ -66,10 +66,20 @@ P](media/15153914320994/Screen%20Shot%202018-01-08%20at%205.30.07%20PM.png)\
  ![Screen Shot 2018-01-08 at 5.31.56
 P](media/15153914320994/Screen%20Shot%202018-01-08%20at%205.31.56%20PM.png)
 
+<<<<<<< HEAD
 **Step 4 : masterBot에서 Custom Component를 통한 레이아웃구현과 Instant App기능 살펴보기**
 =======
 ### 1. Invest Plan 기능도 테스트 해보세요. "금융 상품을 보여주세요."
 ![Screen Shot 2018-08-03 at 2.24.56 P](media/15325093997336/Screen%20Shot%202018-08-03%20at%202.24.56%20PM.png)
+=======
+**Step 4 : masterBot에서 "Track Spending Function" 테스트 하기**
+
+### 1. 이전에 보신것 처럼, Track Spending 기능도 테스트 해보세요
+
+![Screen Shot 2018-01-08 at 5.34.14
+P](media/15153914320994/Screen%20Shot%202018-01-08%20at%205.34.14%20PM.png)
+
+>>>>>>> 5f99f43f56d5e7c9b7330b5c3503e8545b023d38
 
 ### 2. Link를 눌러서 Instant App에 작성한뒤, 봇에 돌아와서 메세지를 확인하세요. Instant App을 통해 작성한 정보가 Bot에게 Flawless하게 들어온 것을 확인 할 수 있습니다. 
 ![Screen Shot 2018-08-03 at 2.31.36 P](media/15325093997336/Screen%20Shot%202018-08-03%20at%202.31.36%20PM.png)
