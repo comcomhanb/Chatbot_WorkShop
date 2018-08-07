@@ -6,7 +6,7 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 2.  Utterances
 3.  Flow
 
-이 랩을 하기전에 필요한 항목을 확인하세요. labfiles\code에서 아래의 파일들이 있는지 확인해주세요.
+이 랩을 하기전에 필요한 항목을 확인하세요. labfiles/code에서 아래의 파일들이 있는지 확인해주세요.
 -   flow_lab_200.txt
 
 
@@ -43,4 +43,9 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 
 
 ![Screen Shot 2018-08-06 at 5.42.06 P](media/15332828444147/Screen%20Shot%202018-08-06%20at%205.42.06%20PM.png)
+
+
+    탭을 바꿔서 확인해 보세요. 
+
+![Screen Shot 2018-08-07 at 11.00.55 A](media/15332828444147/Screen%20Shot%202018-08-07%20at%2011.00.55%20AM.png)
 
