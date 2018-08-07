@@ -1,0 +1,6 @@
+Anonymous Key 
+OTg1NTI3RkY3Q0Q3NEYyQzhBNjFFODFFREZFQjc4RkFfTW9iaWxlQW5vbnltb3VzX0FQUElEOmZjODE1NTY1LTIzN2ItNGMyZS05NzdmLTNhY2FmZTc1ZmJmNQ==
+Backend ID 
+894ea3cd-30dc-446c-98fb-bf0fd134a0fc
+Metadata URL
+https://985527FF7CD74F2C8A61E81EDFEB78FA.mobile.ocp.oraclecloud.com:443/mobile/custom/BankingCC/components
