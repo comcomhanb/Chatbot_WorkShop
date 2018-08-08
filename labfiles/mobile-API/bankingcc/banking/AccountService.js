@@ -24,7 +24,7 @@ var ACCOUNTS_BASE = {
     }
 };
 
-//var ACCOUNTS = Object.assign(require(DATA_ROOT + 'accounts.json'), ACCOUNTS_BASE);
+var ACCOUNTS = Object.assign(require(DATA_ROOT + 'accounts.json'), ACCOUNTS_BASE);
 var PAYMENT_ACCOUNTS = require(DATA_ROOT + 'paymentAccounts.json');
 
 /*

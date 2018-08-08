@@ -4,7 +4,7 @@ module.exports = {
   'BalanceRetrieval': require('./banking/balance_retrieval'),
   'TrackSpending': require('./banking/track_spending'),
   'Payments': require('./banking/payments'),
-  'HotelList': require('./reservation/get_hotel_list'),  
+  'InvestPlan': require('./banking/investPlan'),    
 
   // Utility components
     'ActionFromVariable': require('./util/action_from_variable'),

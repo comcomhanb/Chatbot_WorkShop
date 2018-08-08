@@ -14,9 +14,7 @@
       "apis": {
         "/mobile/custom/BankingApi": "1.0"
       },
-      "connectors": {
-        "/mobile/connector/hotelServiceConnector": "2.0"        
-      }
+      "connectors": {}
     }
   }
 }
